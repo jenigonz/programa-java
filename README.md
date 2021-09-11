@@ -18,6 +18,6 @@ public class SumaNumeros
 
         suma = n1 + n2;
 
-        System.out.println( "La suma de " + n1 + " más " + n2 + " es " + suma + "." );
+        System.out.println( "La suma de los dos numeros es" + n1 + " más " + n2 + " es " + suma + "." );
     }
 }
